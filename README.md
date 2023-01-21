@@ -17,8 +17,13 @@ The process to create a cartoon effect image can be initially branched into 2 di
 1 Identifying the Edges
 Colors to the RGB 
 
-![image](https://user-images.githubusercontent.com/84098613/213844055-24be0f2e-9364-4dc3-a744-249ac614f8f8.png)
-![image](https://user-images.githubusercontent.com/84098613/213844072-d10c0ce1-c9bb-49dc-b5c1-c575d1dbd0dc.png)
 
 
 
+
+
+![Screenshot_83](https://user-images.githubusercontent.com/84098613/213844499-0202a159-fc1b-45ec-9706-0ae8da91724b.png)
+
+![Screenshot_85](https://user-images.githubusercontent.com/84098613/213844504-0bc696b2-dcb3-4f3e-bc11-16be677d696c.png)
+
+![Screenshot_84](https://user-images.githubusercontent.com/84098613/213844502-d6b3f66f-62fc-4f87-99de-d33cd05494d1.png)
